@@ -69,7 +69,7 @@ list.commonlisp = {
 
 list.cpp = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-cpp",
+    url = "https://github.com/TwIStOy/tree-sitter-cpp",
     files = { "src/parser.c", "src/scanner.cc" },
     generate_requires_npm = true,
   },
